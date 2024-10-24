@@ -37,11 +37,11 @@ void backtrack(int* candidates, int candidatesSize, int target, int startIndex, 
     }
 }
 
-// Runtime1:
-// Memory1:
+// Runtime1: 0ms, beats 100%
+// Memory1: 13.20MB, beats 33.23%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 0ms, beats 100%
+// Memory2: 12.82MB, beats 40.97%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 0ms, beats 100%
+// Memory3: 13.20MB, beats 33.23%

@@ -32,11 +32,11 @@ void dfs(int* nums, int numsSize, int index, int* currentSubset, int currentSize
     }
 }
 
-// Runtime1:
-// Memory1:
+// Runtime1: 0ms, beats 100%
+// Memory1: 10.71MB, beats 51.45%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 0ms, beats 100%
+// Memory2: 10.80MB, beats 51.45%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 0ms, beats 100%
+// Memory3: 11.02MB, beats 10.40%

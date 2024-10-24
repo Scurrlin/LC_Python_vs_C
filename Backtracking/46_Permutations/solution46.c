@@ -43,11 +43,11 @@ void backtrack(int* nums, int numsSize, int* currentPerm, int currentSize, int* 
     }
 }
 
-// Runtime1:
-// Memory1:
+// Runtime1: 0ms, beats 100%
+// Memory1: 11.66MB, beats 28.85%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 0ms, beats 100%
+// Memory2: 11.76MB, beats 17.38%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 0ms, beats 100%
+// Memory3: 11.66MB, beats 28.85%
