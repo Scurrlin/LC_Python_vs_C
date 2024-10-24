@@ -61,10 +61,10 @@ int** insert(int** intervals, int intervalsSize, int* intervalsColSize, int* new
 }
 
 // Runtime1: 0ms, beats 100%
-// Memory1: 13.66MB, beats 57.41%
+// Memory1: 13.66MB, beats 57.06%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 0ms, beats 100%
+// Memory2: 13.69MB, beats 57.06%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 0ms, beats 100%
+// Memory3: 13.66MB, beats 57.06%

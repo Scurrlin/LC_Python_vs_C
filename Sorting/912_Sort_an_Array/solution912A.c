@@ -60,14 +60,14 @@ int* sortArray(int* nums, int numsSize, int* returnSize) {
     return result;
 }
 
-// Runtime1: 351ms, beats 85.36%
-// Memory1: 154.59MB, beats 5.57%
+// Runtime1: 351ms, beats 84.36%
+// Memory1: 154.59MB, beats 5.55%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 337ms, beats 84.57%
+// Memory2: 154.40MB, beats 7.41%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 326ms, beats 84.98%
+// Memory3: 154.63MB, beats 5.55%
 
 // Runtime reduced by a factor of 10 to not skew data visualization
 // Memory reduced by a factor of 10 to not skew data visualization

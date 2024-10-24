@@ -49,8 +49,8 @@ int** merge(int** intervals, int intervalsSize, int* intervalsColSize, int* retu
 // Runtime1: 4ms, beats 95.77%
 // Memory1: 17.88MB, beats 69.05%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 0ms, beats 100%
+// Memory2: 17.74MB, beats 80.85%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 1ms, beats 98.40%
+// Memory3: 17.91MB, beats 54.52%
