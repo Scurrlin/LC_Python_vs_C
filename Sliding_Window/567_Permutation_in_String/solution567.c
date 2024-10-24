@@ -53,8 +53,8 @@ bool checkInclusion(char* s1, char* s2) {
 // Runtime1: 0ms, beats 100%
 // Memory1: 8.20MB, beats 68.62%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 0ms, beats 100%
+// Memory2: 8.34MB, beats 34.42%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 2ms, beats 73.04%
+// Memory3: 8MB, beats 99.28%

@@ -44,8 +44,8 @@ int* findAnagrams(char* s, char* p, int* returnSize) {
 // Runtime1: 0ms, beats 100%
 // Memory1: 13.95MB, beats 65.38%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 4ms, beats 96.25%
+// Memory2: 13.93MB, beats 65%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 4ms, beats 96.25%
+// Memory3: 13.92MB, beats 65%

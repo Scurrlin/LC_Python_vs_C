@@ -25,8 +25,8 @@ int lengthOfLongestSubstring(char* s) {
 // Runtime1: 0ms, beats 100%
 // Memory1: 9.60MB, beats 60.99%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 0ms, beats 100%
+// Memory2: 9.77MB, beats 31.91%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 0ms, beats 100%
+// Memory3: 9.64MB, beats 47.55%
