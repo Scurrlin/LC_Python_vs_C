@@ -21,8 +21,8 @@ int search(int* nums, int numsSize, int target) {
 // Runtime1: 0ms, beats 100%
 // Memory1: 9.13MB, beats 55.56%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 0ms, beats 100%
+// Memory2: 9.16MB, beats 56.48%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 0ms, beats 100%
+// Memory3: 9.14MB, beats 56.48%

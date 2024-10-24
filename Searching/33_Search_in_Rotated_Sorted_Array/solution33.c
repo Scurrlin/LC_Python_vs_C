@@ -29,11 +29,11 @@ int search(int* nums, int numsSize, int target) {
     return -1;
 }
 
-// Runtime1:
-// Memory1:
+// Runtime1: 0ms, beats 100%
+// Memory1: 8.20MB, beats 85.51%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 0ms, beats 100%
+// Memory2: 8.18MB, beats 85.51%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 0ms, beats 100%
+// Memory3: 8.40MB, beats 36.22%
