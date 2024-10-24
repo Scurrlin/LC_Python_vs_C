@@ -46,11 +46,11 @@ int** reconstructQueue(int** people, int peopleSize, int* peopleColSize, int* re
     return result;
 }
 
-// Runtime1:
-// Memory1:
+// Runtime1: 15ms, beats 100%
+// Memory1: 16.15MB, beats 73.33%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 17ms, beats 100%
+// Memory2: 16.32MB, beats 46.67%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 19ms, beats 100%
+// Memory3: 16.26MB, beats 66.67%

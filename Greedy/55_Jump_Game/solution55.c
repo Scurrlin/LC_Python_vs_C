@@ -13,13 +13,13 @@ bool canJump(int* nums, int numsSize) {
     return goal == 0;
 }
 
-// Runtime1:
-// Memory1:
+// Runtime1: 0ms, beats 100%
+// Memory1: 10.45MB, beats 53%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 0ms, beats 100%
+// Memory2: 10.61MB, beats 25.05%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 0ms, beats 100%
+// Memory3: 10.69MB, beats 25.05%
 
 // Runtime reduced by a factor of 10 to not skew data visualization

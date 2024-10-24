@@ -37,10 +37,10 @@ int findMinArrowShots(int** points, int pointsSize, int* pointsColSize) {
 // Runtime1: 29ms, beats 100%
 // Memory1: 36.66MB, beats 27.96%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 35ms, beats 98.98%
+// Memory2: 36.39MB, beats 82.65%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 36ms, beats 98.98%
+// Memory3: 36.58MB, beats 37.76%
 
 // Runtime reduced by a factor of 10 to not skew data visualization
