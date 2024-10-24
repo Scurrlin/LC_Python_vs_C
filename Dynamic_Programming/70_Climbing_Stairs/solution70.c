@@ -22,11 +22,11 @@ int climbStairs(int n) {
     return result;
 }
 
-// Runtime1:
-// Memory1:
+// Runtime1: 0ms, beats 100%
+// Memory1: 7.81MB, beats 18.15%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 0ms, beats 100%
+// Memory2: 7.92MB, beats 18.15%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 0ms, beats 100%
+// Memory3: 7.76MB, beats 38.26%

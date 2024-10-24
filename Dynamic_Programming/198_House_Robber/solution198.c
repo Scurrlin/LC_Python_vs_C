@@ -16,11 +16,11 @@ int rob(int* nums, int numsSize) {
     return rob2;
 }
 
-// Runtime1:
-// Memory1:
+// Runtime1: 0ms, beats 100%
+// Memory1: 8.22MB, beats 8.53%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 0ms, beats 100%
+// Memory2: 7.99MB, beats 59.18%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 0ms, beats 100%
+// Memory3: 7.88MB, beats 88.13%

@@ -35,13 +35,13 @@ int lengthOfLIS(int* nums, int numsSize) {
     return maxLIS;
 }
 
-// Runtime1:
-// Memory1:
+// Runtime1: 100ms, beats 44.34%
+// Memory1: 8.46MB, beats 26.24%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 99ms, beats 44.80%
+// Memory2: 8.26MB, beats 57.92%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 103ms, beats 40.72%
+// Memory3: 8.30 MB, beats 37.56%
 
 // Runtime reduced by a factor of 10 to not skew data visualization
