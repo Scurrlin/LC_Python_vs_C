@@ -39,11 +39,11 @@ void flood_fill(int** image, int imageSize, int* imageColSize, int x, int y, int
     flood_fill(image, imageSize, imageColSize, x, y + 1, start_color, new_color);
 }
 
-// Runtime1:
-// Memory1:
+// Runtime1: 0ms, beats 100%
+// Memory1: 13.24MB, beats 9.94%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 0ms, beats 100%
+// Memory2: 13.25MB, beats 9.94%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 0ms, beats 100%
+// Memory3: 12.93MB, beats 67.08%

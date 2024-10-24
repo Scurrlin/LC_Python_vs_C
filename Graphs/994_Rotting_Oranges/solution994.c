@@ -77,11 +77,11 @@ int is_empty(int front, int rear) {
     return front == rear;
 }
 
-// Runtime1:
-// Memory1:
+// Runtime1: 0ms, beats 100%
+// Memory1: 9.56MB, beats 15.38%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 3ms, beats 78.95%
+// Memory2: 9.44MB, beats 21.54%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 0ms, beats 100%
+// Memory3: 9.40MB, beats 31.58%

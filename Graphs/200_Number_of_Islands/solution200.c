@@ -32,13 +32,13 @@ void dfs(char** grid, int gridSize, int* gridColSize, int i, int j) {
     dfs(grid, gridSize, gridColSize, i, j - 1);
 }
 
-// Runtime1:
-// Memory1:
+// Runtime1: 26ms, beats 24.37%
+// Memory1: 11.62MB, beats 63.35%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 26ms, beats 24.37%
+// Memory2: 11.79MB, beats 50.29%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 22ms, beats 57.50%
+// Memory3: 11.50MB, beats 98.64%
 
 // Runtime reduced by a factor of 10 to not skew data visualization
