@@ -42,6 +42,6 @@ int lengthOfLIS(int* nums, int numsSize) {
 // Memory2: 8.26MB, beats 57.92%
 
 // Runtime3: 103ms, beats 40.72%
-// Memory3: 8.30 MB, beats 37.56%
+// Memory3: 8.30MB, beats 37.56%
 
 // Runtime reduced by a factor of 10 to not skew data visualization
