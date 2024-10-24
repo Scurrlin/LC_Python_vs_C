@@ -41,11 +41,11 @@ bool divide_and_conquer(int** matrix, int min_i, int min_j, int max_i, int max_j
     return false;
 }
 
-// Runtime1:
-// Memory1:
+// Runtime1: 144ms, beats 37.68%
+// Memory1: 11.70MB, beats 98.07%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 147ms, beats 37.68%
+// Memory2: 11.86MB, beats 57.49%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 145ms, beats 37.68%
+// Memory3: 11.72MB, beats 84.54%

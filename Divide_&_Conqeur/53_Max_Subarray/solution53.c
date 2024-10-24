@@ -19,13 +19,13 @@ int maxSubArray(int* nums, int numsSize) {
     return res;
 }
 
-// Runtime1:
-// Memory1:
+// Runtime1: 0ms, beats 100%
+// Memory1: 14.58MB, beats 61.03%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 0ms, beats 100%
+// Memory2: 14.64MB, beats 36.10%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 0ms, beats 100%
+// Memory3: 14.53MB, beats 61.03%
 
 // Runtime reduced by a factor of 10 to not skew data visualization

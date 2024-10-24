@@ -11,11 +11,11 @@ int majorityElement(int* nums, int numsSize) {
     return res;
 }
 
-// Runtime1:
-// Memory1:
+// Runtime1: 0ms, beats 100%
+// Memory1: 10MB, beats 91.26%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 0ms, beats 100%
+// Memory2: 10.06MB, beats 63.65%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 0ms, beats 100%
+// Memory3: 10.40MB, beats 20.56%
