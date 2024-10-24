@@ -67,8 +67,8 @@ int kthSmallest(struct TreeNode* root, int k) {
 // Runtime1: 0ms, beats 100%
 // Memory1: 13.59MB, beasts 57.49%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 0ms, beats 100%
+// Memory2: 13.71MB, beats 26.23%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 0ms, beats 100%
+// Memory3: 13.76MB, beats 26.23%

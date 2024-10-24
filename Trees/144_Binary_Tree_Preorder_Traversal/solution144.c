@@ -69,10 +69,10 @@ int* preorderTraversal(struct TreeNode* root, int* returnSize) {
 }
 
 // Runtime1: 0ms, beats 100%
-// Memory1: 8.74MB, beats 11.27%
+// Memory1: 8.75MB, beats 11.60%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 0ms, beats 100%
+// Memory2: 8.81MB, beats 7.03%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 0ms, beats 100%
+// Memory3: 8.49MB, beats 65.52%

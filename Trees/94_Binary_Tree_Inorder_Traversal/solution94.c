@@ -48,8 +48,8 @@ int* inorderTraversal(struct TreeNode* root, int* returnSize) {
 // Runtime1: 0ms, beats 100%
 // Memory1: 8.49MB, beasts 61.01%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 0ms, beats 100%
+// Memory2: 8.40MB, beasts 86%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 0ms, beats 100%
+// Memory3: 8.48MB, beats 61.53%
