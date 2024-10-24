@@ -13,11 +13,11 @@ void reverseString(char* s, int sSize) {
     }
 }
 
-// Runtime1:
-// Memory1:
+// Runtime1: 0ms, beats 100%
+// Memory1: 17.17MB, beats 28.75%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 2ms, beats 91.54%
+// Memory2: 17.31MB, beats 16.10%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 0ms, beats 100%
+// Memory3: 17.26MB, beats 16.10%

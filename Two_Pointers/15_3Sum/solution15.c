@@ -53,13 +53,13 @@ int** threeSum(int* nums, int numsSize, int* returnSize, int** returnColumnSizes
     return result;
 }
 
-// Runtime1:
-// Memory1:
+// Runtime1: 43ms, beats 99.34%
+// Memory1: 35.52MB, beats 92.96%
 
-// Runtime2:
-// Memory2:
+// Runtime2: 43ms, beats 99.34%
+// Memory2: 35.64%, beats 89.20%
 
-// Runtime3:
-// Memory3:
+// Runtime3: 48ms, beats 98.59%
+// Memory3: 35.56MB, beats 92.96%
 
 // Runtime reduced by a factor of 10 to not skew data visualization
