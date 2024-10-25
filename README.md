@@ -20,9 +20,9 @@ Before getting to the results, I want to acknowledge that LeetCode is not the id
 
 ## Results
 
-Python may have outperformed C# in the second round, but it was no match for C in round three. I will admit that I was a bit skeptical of my methodology after seeing the C# test data. However, even though Python beat C++ and C# in memory usage, C proved to be the most performant in both speed and efficiency. In fact, C was 1.897x faster (89.7%) than C++ despite C++ being the fastest language so far by a considerable margin.
+Python may have outperformed C# in the second round, but it was no match for C in round three. I will admit that I was a bit skeptical of my methodology after seeing the C# test data. That said, even though Python beat C++ and C# in memory usage, C proved to be the most performant in both speed and efficiency. In fact, C was 1.897x faster (89.7%) than C++, despite C++ being the fastest language so far by a considerable margin.
 
-Overall, I thoroughly enjoyed the process of aggregating and visualizing the LeetCode performance data for these comparisons. While Python remains my preferred language for coding questions, I gained a new appreciation for C's syntax and performance capabilities. I initially expected Python to underperform in each matchup, but it held its own—beating C# in both memory and speed as well as outperforming C++ in memory usage. Still, C and C++ remain the kings of raw speed due to their low-level architecture and direct compilation to machine code.
+Overall, I thoroughly enjoyed the process of aggregating and visualizing the LeetCode performance data for these comparisons. While Python remains my preferred language for coding questions, I gained a new appreciation for C's syntax and performance capabilities. It’s also worth noting that I initially expected Python to underperform in each matchup; however, it held its own—beating C# in both memory and speed as well as outperforming C++ in memory usage. Still, C and C++ remain the kings of raw speed due to their low-level architecture and direct compilation to machine code.
 
 <details>
 <summary>Runtime Comparison</summary>
