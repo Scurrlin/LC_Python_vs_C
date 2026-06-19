@@ -1,5 +1,7 @@
 # Analyzing Python and C Performance in LeetCode Problems
 
+![Python vs C](Python_vs_C.png)
+
 ## Premise
 
 This repository serves as the third and final entry in my 3 part series comparing Python's LeetCode performance to that of C++, C#, and C. Since this is a didactic project with a focus on C syntax, the solutions in C contain additional lines of code not found in the Python solutions. These additional lines of code were not part of the submitted solutions.
@@ -19,6 +21,8 @@ Once I was satisfied with the solutions, I submitted each solution three times i
 Before getting to the results, I want to acknowledge that LeetCode is not the ideal way to test the efficacy of each language’s solutions. Both runtime and memory readings can be skewed by the quality of the user’s machine or by the number of users on the LeetCode platform at the time of testing. However, given the prevalence of LeetCode style coding challenges in SWE interview loops, it was a logical choice to streamline performance testing.
 
 ## Results
+
+![Frands](Frands.png)
 
 Python may have outperformed C# in the second round, but it was no match for C in round three. I will admit that I was a bit skeptical of my methodology after seeing the C# test data. That said, even though Python beat C++ and C# in memory usage, C proved to be the most performant in both speed and efficiency. In fact, C was 1.897x faster (89.7%) than C++, despite C++ being the fastest language so far by a considerable margin.
 
